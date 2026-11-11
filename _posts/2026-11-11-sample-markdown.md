@@ -4,7 +4,7 @@ title: 저장소 클론하고 편집하기
 subtitle: 저장소 클론하기
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [jekyll_test]
 comments: true
 mathjax: true
 author: hery286
