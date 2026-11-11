@@ -7,14 +7,13 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: hery286
 ---
 
 {: .box-success}
 -작업할 디렉토리로 이동.
 -git clone [저장소 주소] 입력해서 저장소 내려받기
 -편집기 등으로 디렉토리 열어서 편집하기
-**Here is some bold text**
 
 ## Here is a secondary heading
 
